@@ -116,11 +116,6 @@ function Detail({ content, closeModal }) {
           <div>비슷한 콘텐츠가 없습니다.</div>
         )}
       </div>
-      {/* <div className="similar-content-container">
-          <img src="/images/그시절_소녀.jpg" alt="Similar Content 1" className="similar-content-image" />
-          <img src="/images/말할수없는_비밀.jpg" alt="Similar Content 2" className="similar-content-image" />
-          <img src="/images/스쿨_오브_락.jpg" alt="Similar Content 3" className="similar-content-image" /> 
-      </div> */}
     </div>
   );
 }
